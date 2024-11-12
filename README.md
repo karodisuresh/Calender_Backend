@@ -34,7 +34,7 @@ The server uses the following environment variables:
 1. Clone the repository:
  
     ```bash
-    git clone 
+    git clone https://github.com/karodisuresh/Calender_Backend.git
     cd Calender_Backend
     ```
 ## Switching to Version 1.0.0
